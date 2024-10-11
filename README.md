@@ -1,5 +1,5 @@
 
-# React-Admin-DashBoard
+# Shoppy E-commerce DashBoard
 
 ![ADDA](https://user-images.githubusercontent.com/78680563/228942935-6b80d2a7-d4c9-4930-8c3d-07f03d0c3d26.png)
 
