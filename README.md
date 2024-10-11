@@ -26,13 +26,13 @@ Javascript, HTML, CSS, React.JS, and TailwindCSS.
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/React-Admin-DashBoard.git
+  git clone https://github.com/superleveldev/shoppy.git
 
 ```
 2. Navigate to the project directory
 
 ```bash
-  cd React-Admin-DashBoard
+  cd shoppy
 ```
 3. Install the necessary dependencies
 ```bash
@@ -86,7 +86,7 @@ Specializations:
 
 ## Feedback
 
-If you have any feedback, please reach out to me at omunite21@gmail.com
+If you have any feedback, please reach out to me at superlevel.dev@gmail.com
 
 
 ## Authors
