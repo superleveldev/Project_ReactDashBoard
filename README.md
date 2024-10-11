@@ -93,7 +93,7 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
 
 - This project is made using tutorial of [Javascript Mastery](https://www.youtube.com/watch?v=_oO4Qi5aVZs&t=57s)
 
-- [@Om Patel](https://github.com/omunite215)
+- [@Super Dev](https://github.com/superleveldev)
 
 
 
@@ -104,9 +104,3 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
 
  - [React Docs](https://reactjs.org/)
 
-
-
-
-<p align="center">
-  <img src="https://github.com/omunite215/hoobank/assets/78680563/eed23408-14a8-4d04-82b6-6d982f1dcca7" alt="Om's Logo Image"/>
-</p>
